@@ -7,6 +7,6 @@ pubdate: 2021-01-02
 
 しかし、Sapperが正式終了しSvelte-kitへ継承するという事で、2021年になったこともあり鞍替えしようとしました。リポジトリは [こちら](https://github.com/ulwlu/ulwlu-blog)です。
 
-ですがSvelte-kitはまだ非公式でSSGモードが無い事に気づき(svelte-kit adaptがsapper exportにあたる。しかしまだhtmlを生成できない。)、結局一旦svelte preprocessの復習がてら、TypeScriptとTailwindとVercelを新たに組み込んだブログを作りました。
+ですがSvelte-kitはまだ非公式でSSGモードが無い事に気づき(svelte-kit adaptがsapper exportにあたる。しかしまだhtmlを生成できない。)、結局一旦svelte preprocessの復習がてら、TypeScriptとTailwindを新たに組み込んだブログを作りました。
 
 今後の予定としては、Svelte-kitが出たら上記のリポジトリにさっと切り替えをしようと思います。またContentfulはもう使わないでしょう。新しく入れるとしたらCreate-Pixel-Reactで書いたドット絵と、なんかアプリをwasmで入れようかなと思います。
