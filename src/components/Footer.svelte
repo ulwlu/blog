@@ -21,7 +21,7 @@
   <p>
     <a href='blog'>blog</a>
     <button on:click={()=> $preferences.theme = $preferences.theme === 'dark' ? 'light' : 'dark' }>
-      {$preferences.theme === 'dark' ? 'light' : 'dark'} theme?
+      want {$preferences.theme === 'dark' ? 'light' : 'dark'} theme?
     </button>
   </p>
 </footer>

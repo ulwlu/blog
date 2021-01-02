@@ -87,7 +87,7 @@
   footer {
     @apply text-center mt-16;
     button {
-      @apply border-b border-solid leading-none;
+      @apply border-b border-solid leading-none opacity-50 absolute -right-0;
     }
   }
 </style>

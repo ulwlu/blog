@@ -19,10 +19,10 @@ module.exports = {
         'meta': '#586069'
       },
       'dark': {
-        'fg': '#111A1F',
-        'bg': '#8197A5',
-        'bg_border': '#738C9C',
-        'meta': '#2E383E'
+        'fg': '#C2C2C2',
+        'bg': '#252525',
+        'bg_border': '#4C4C4C',
+        'meta': '#9B9B9B'
       }
     },
     extend: {},
