@@ -12,8 +12,9 @@ module.exports = {
   },
   theme: {
     colors: {
-      'black': '#24292E',
-      'gray': '#586069'
+      'fg': '#333333',
+      'bg': '#F6FAFD',
+      'meta': '#586069'
     },
     extend: {},
   },

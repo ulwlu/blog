@@ -4,8 +4,9 @@
   @tailwind utilities;
 
   body {
-    @apply text-lg leading-normal break-all;
-    color: theme('colors.black');
+    @apply text-sm sm:text-lg leading-normal break-all;
+    background: theme('colors.bg');
+    color: theme('colors.fg');
   }
 
   h1,
@@ -17,16 +18,16 @@
   }
 
   h1 {
-    @apply text-center text-3xl mt-8 mb-8;
+    @apply text-center text-lg sm:text-3xl mt-8 mb-8;
   }
 
   h2 {
-    @apply text-xl mt-8 font-bold;
-    border-bottom: 1px solid #eaecef;
+    @apply text-lg sm:text-xl mt-8 font-semibold;
+    border-bottom: 1px solid #EAECEF;
   }
 
   h3 {
-    @apply text-lg;
+    @apply text-base sm:text-lg;
   }
 
   a {
@@ -43,12 +44,12 @@
 
   .meta {
     @apply flex;
-    color: theme('colors.gray');
+    color: theme('colors.meta');
   }
 
   .date {
     @apply text-xs;
-    color: theme('colors.gray');
+    color: theme('colors.meta');
   }
 
   .title {
@@ -66,7 +67,7 @@
   header {
     @apply text-center mt-5;
     a {
-      @apply text-xl mt-8 font-semibold no-underline;
+      @apply text-base sm:text-xl mt-5 sm:mt-8 font-semibold no-underline;
     }
   }
 
