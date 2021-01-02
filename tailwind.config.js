@@ -12,10 +12,18 @@ module.exports = {
   },
   theme: {
     colors: {
-      'fg': '#333333',
-      'bg': '#F6FAFD',
-      'bg-light25': '#EAECEF',
-      'meta': '#586069'
+      'light': {
+        'fg': '#333333',
+        'bg': '#F6FAFD',
+        'bg_border': '#EAECEF',
+        'meta': '#586069'
+      },
+      'dark': {
+        'fg': '#111A1F',
+        'bg': '#8197A5',
+        'bg_border': '#738C9C',
+        'meta': '#2E383E'
+      }
     },
     extend: {},
   },

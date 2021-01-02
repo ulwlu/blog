@@ -5,8 +5,12 @@
 
   body {
     @apply text-sm sm:text-lg leading-normal break-all;
-    background: theme('colors.bg');
-    color: theme('colors.fg');
+    background: theme('colors.light.bg');
+    color: theme('colors.light.fg');
+    .dark & {
+      background: theme('colors.dark.bg');
+      color: theme('colors.dark.fg');
+    }
   }
 
   h1,
@@ -23,7 +27,10 @@
 
   h2 {
     @apply text-lg sm:text-xl mt-8 font-semibold border-b border-solid;
-    border-color: theme('colors.bg-light25');
+    border-color: theme('colors.light.bg_border');
+    .dark & {
+      border-color: theme('colors.dark.bg_border');
+    }
   }
 
   h3 {
@@ -44,12 +51,18 @@
 
   .meta {
     @apply flex;
-    color: theme('colors.meta');
+    color: theme('colors.light.meta');
+    .dark & {
+      color: theme('colors.dark.meta');
+    }
   }
 
   .date {
     @apply text-xs;
-    color: theme('colors.meta');
+    color: theme('colors.light.meta');
+    .dark & {
+      color: theme('colors.dark.meta');
+    }
   }
 
   .title {
@@ -73,5 +86,8 @@
 
   footer {
     @apply text-center mt-16;
+    button {
+      @apply border-b border-solid leading-none;
+    }
   }
 </style>
