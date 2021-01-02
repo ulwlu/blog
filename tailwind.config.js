@@ -14,6 +14,7 @@ module.exports = {
     colors: {
       'fg': '#333333',
       'bg': '#F6FAFD',
+      'bg-light25': '#EAECEF',
       'meta': '#586069'
     },
     extend: {},

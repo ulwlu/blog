@@ -22,8 +22,8 @@
   }
 
   h2 {
-    @apply text-lg sm:text-xl mt-8 font-semibold;
-    border-bottom: 1px solid #EAECEF;
+    @apply text-lg sm:text-xl mt-8 font-semibold border-b border-solid;
+    border-color: theme('colors.bg-light25');
   }
 
   h3 {
