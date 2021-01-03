@@ -42,7 +42,7 @@
   }
 
   .blog {
-    @apply text-xl max-w-lg ml-auto;
+    @apply text-lg sm:text-xl max-w-lg ml-auto;
   }
 
   .card {
@@ -88,6 +88,20 @@
     @apply text-center mt-16;
     button {
       @apply border-b border-solid leading-none opacity-50 absolute -right-0;
+    }
+  }
+
+  table {
+    @apply w-full overflow-auto border-collapse;
+    th {
+      @apply font-semibold;
+    }
+    td, th {
+      @apply py-2 px-4 border border-solid;
+      border-color: theme('colors.light.table_border');
+      .dark & {
+        border-color: theme('colors.dark.table_border');
+      }
     }
   }
 </style>

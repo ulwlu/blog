@@ -16,13 +16,15 @@ module.exports = {
         'fg': '#333333',
         'bg': '#F6FAFD',
         'bg_border': '#EAECEF',
-        'meta': '#586069'
+        'meta': '#586069',
+        'table_border': '#dfe2e5'
       },
       'dark': {
         'fg': '#C2C2C2',
         'bg': '#252525',
         'bg_border': '#4C4C4C',
-        'meta': '#9B9B9B'
+        'meta': '#9B9B9B',
+        'table_border': '#586069'
       }
     },
     extend: {},
