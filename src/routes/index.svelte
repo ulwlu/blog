@@ -12,6 +12,6 @@
   <p><a href="https://qiita.com/ulwlu" target="_blank">Qiita</a> / <a href="https://zenn.dev/ulwlu" target="_blank">Zenn</a> / <a href="https://www.instagram.com/ooulwluoo" target="_blank">Instagram</a> / <a href="https://www.reddit.com/user/ryuta69" target="_blank">Reddit</a></p>
   <p>Mail: <a href="mailto:ooulwluoo@gmail.com" target="_blank">ooulwluoo@gmail.com</a></p>
   <h2>Thanks</h2>
-  <p>This blog is made by Sapper, TypeScript, TailWindCss, and Netlify.</p>
+  <p>This blog is made by Svelte, Sapper, TypeScript, TailwindCSS, Sass, PostCSS, Rollup + netlify/vercel/gh-pages.</p>
   <p>Repository is <a href="https://github.com/ulwlu/blog" target="_blank">here</a>.</p>
 </div>
