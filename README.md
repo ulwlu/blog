@@ -4,7 +4,7 @@
 
 Articles about programming can be found on [Qiita](https://qiita.com/ulwlu) and [Zenn](https://zenn.dev/ulwlu).
 
-Mainly launched on netlify, but it deploys on vercel and github-pages automatically as well.
+Mainly launched on netlify, but it deploys on [vercel](https://ulwlu-blog.vercel.app/) and github-pages automatically as well.
 
 ## history
 
