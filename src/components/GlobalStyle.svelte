@@ -41,6 +41,10 @@
     @apply underline;
   }
 
+  pre {
+    @apply whitespace-pre-wrap;
+  }
+
   .blog {
     @apply text-lg sm:text-xl max-w-lg ml-auto;
   }
@@ -88,6 +92,9 @@
     @apply text-center mt-16;
     button {
       @apply border-b border-solid leading-none opacity-50 absolute -right-0;
+      &:focus {
+        @apply outline-none;
+      }
     }
   }
 

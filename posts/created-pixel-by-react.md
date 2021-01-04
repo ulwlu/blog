@@ -1,17 +1,16 @@
 ---
-title: ドット絵を初めて書いてみた
+title: Drew pixel art for the first time
 pubdate: 2021-01-03
 ---
 
-成果物はこれ
+Here it is.
 
 https://github.com/ulwlu/my-pixel-art-gallery
 
 <img src="https://raw.githubusercontent.com/ulwlu/my-pixel-art-gallery/master/dog-in-forrest/img.png" width="250">
 
-おー、意外と結構いい。実はまだwipなんです。
+Not so bad as expected, it took 10 days or more only to draw this.
 
-これをどうにかしてサイトに組み込みたいんです・・・。
-年末にその夢を抱いて10日くらい寝ないで打ち込んだのに、完成形を全く考えてなかったので悩み中・・・
+I'd be thinking to put this in this blog, but got no idea... (why even didn't make a plan before drawing...).
 
-どなたかアドバイスあったらメールくれると嬉しいです。
+If somebody has an good idea, please email me.

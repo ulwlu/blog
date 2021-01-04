@@ -1,12 +1,14 @@
 ---
-title: ブログを新しくした
+title: Renewed blog
 pubdate: 2021-01-02
 ---
 
-2020年はSapper, Contentful, Netlifyの組み合わせで１年間ブログを運用していました。その時の記事は[こちら](https://qiita.com/ryuta69/items/d982c6cbdf3423e22b2c)です。
+I had running a blog with `Sapper, Contentful and Netlify` for a year, and Sapper is informed as deprecated on October 2020.
 
-しかし、Sapperが正式終了しSvelte-kitへ継承するという事で、2021年になったこともあり鞍替えしようとしました。リポジトリは [こちら](https://github.com/ulwlu/ulwlu-blog)です。
+I decided to move to Svelte-kit, and created a new blog [here](https://github.com/ulwlu/ulwlu-blog).
 
-ですがSvelte-kitはまだ非公式でSSGモードが無い事に気づき(svelte-kit adaptがsapper exportにあたる。しかしまだhtmlを生成できない。)、結局一旦svelte preprocessの復習がてら、TypeScriptとTailwindを新たに組み込んだブログを作りました[(作成メモ)](https://zenn.dev/ulwlu/scraps/e0e0db139dd365)。
+However, svelte-kit doesn't supply SSG fully yet. It has `svelte-kit adapt` command to export like Sapper, but it doesn't commit a html file yet.
 
-今後の予定としては、Svelte-kitが出たら上記のリポジトリにさっと切り替えをしようと思います。またContentfulは重いのでもう使わないでしょう。新しく入れるとしたらCreate-Pixel-Reactで書いたドット絵と、なんかアプリをwasmで入れようかなと思います。
+Therefore, I've just only refactor Sapper with `Typescript, TailwindCSS, PostCSS, Rollup and Vercel`. If svelte-kit has released officially I'll move to in the future.
+
+Besides, contentful is great tool but kind of annoying to login. It gets slow on preload so I don't think I'll use again.

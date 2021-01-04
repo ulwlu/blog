@@ -17,7 +17,7 @@ export function getPost(slug: string) {
   const markdown = fs.readFileSync(file, 'utf-8');
   const { content, metadata } = process_markdown(markdown);
   const title = metadata.title;
-  const pubdate = new Date(`${metadata.pubdate} EDT`).toDateString();
+  const pubdate = metadata.pubdate;
   const html = marked(content);
   return {
     slug,
