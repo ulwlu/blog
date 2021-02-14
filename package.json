@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "compression": "^1.7.1",
-    "marked": "^1.2.7",
+    "marked": "^2.0.0",
     "polka": "next",
     "sirv": "^1.0.0"
   },
