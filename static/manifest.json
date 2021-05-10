@@ -1,0 +1,11 @@
+{
+  "name": "ulwlu's blog",
+  "short_name": "ulwlu",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "icons": [{
+      "src": "favicon.png",
+      "sizes": "132x132",
+      "type": "image/png"
+  }]
+}
