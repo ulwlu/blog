@@ -1,5 +1,5 @@
 ---
-title: blender初体験めっちゃ楽しかったのでQiitanを作った
+title: blender初体験楽しかったのでQiitanを作った
 pubdate: 2021-05-10
 ---
 
