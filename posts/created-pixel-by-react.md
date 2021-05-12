@@ -19,8 +19,13 @@ https://github.com/jvalen/pixel-art-react/issues/40
 
 作者の人に直に「素晴らしいツールをありがとう、子供のころからやってみたかった事が、あなたのツールのおかげで出来ました」って涙不可避な感謝の言葉を直接伝えられてよかったです。
 
+完成形はここ　https://github.com/ulwlu/my-pixel-art-gallery cssでも使える。
+
 ## まとめ
 
-多分、絵にかける時間は底なしなので、やはりプログラミングに集中すると思います。
+人に薦められて、絵の練習もしてました。
 
-完成形はここ　https://github.com/ulwlu/my-pixel-art-gallery cssでも使える。
+<img src="https://user-images.githubusercontent.com/41639488/117898889-eb100680-b300-11eb-89c1-fa59ebe3ecca.png" style="width:100%">
+
+多分、絵やドット絵はかける時間が底なしなので、やはりプログラミングに集中すると思います。
+
