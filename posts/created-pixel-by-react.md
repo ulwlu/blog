@@ -5,7 +5,7 @@ pubdate: 2021-01-03
 
 <img src="https://raw.githubusercontent.com/ulwlu/my-pixel-art-gallery/master/dog-in-forrest/img.png">
 
-実はまだ書きかけです。
+実はまだ書きかけです。10日寝ずにやって力果てました。
 
 新しいサイト作ろうとしてて、なんかいい感じの扉絵を書こうとして昔飼い犬と一緒にいった森を書こうかなと思いました。そんなとき React で作られたサイトでドット絵書けるって知り、おーってなりました。　https://github.com/jvalen/pixel-art-react　。運命だって思ってこれ使おってやりました。
 
@@ -23,9 +23,6 @@ https://github.com/jvalen/pixel-art-react/issues/40
 
 ## まとめ
 
-人に薦められて、絵の練習もしてました。
-
-<img src="https://user-images.githubusercontent.com/41639488/117898889-eb100680-b300-11eb-89c1-fa59ebe3ecca.png" style="width:100%">
-
 多分、絵やドット絵はかける時間が底なしなので、やはりプログラミングに集中すると思います。
 
+でもすごいのめり込めて楽しかったです。
