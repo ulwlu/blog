@@ -41,8 +41,6 @@ pubdate: 2021-05-10
   - [Mac 版 Blender で覚えておくべきショートカットキー一覧](https://ishigi.com/mac-blender-hotkey/)
   - [【Blender2.9】Blender を使うならサブディビジョン！](https://vtuberkaibougaku.site/2020/12/14/blender-subdivision/)
 
-youtube の動画がなかったら 100%100 倍時間かかってました。プログラミングもなんか youtube あっても良い気がする、VSCode 特化とかで。
-
 ## memo
 
 - オブジェクトは shift a で追加
