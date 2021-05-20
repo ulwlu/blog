@@ -1,32 +1,32 @@
 ---
-title: blender初体験楽しかったのでQiitanを作った
+title: Made Qiitan by blender with my first experience
 pubdate: 2021-05-10
 ---
 
-## 完成品
+## result
 
 <img src="https://user-images.githubusercontent.com/41639488/117580420-c9f9bb00-b132-11eb-938c-fa6676d88e72.png" width="400">
 
-人に誘われて始めました。
+I was invited by someone to start.
 
-まず最初にエンジニアなので草はやしました。
+First of all, I'm an engineer, so I let the grass grow.
 
 <img src="https://user-images.githubusercontent.com/41639488/117580492-1b09af00-b133-11eb-9ff9-5032df4367d2.png" width="400">
 
-そして何故か Qiitan。
+And for some reason, Qiitan.
 
 ![6dbb5295cf712977](https://user-images.githubusercontent.com/41639488/117728476-7cf61180-b224-11eb-88c1-c2dd5ddf856f.png)
 
-朝の 12 時くらいにはじめたと思うのですが、悪戦苦闘すること 15 時間、ついに深夜の 3 時に完成しました。
+I think I started at about 12 in the morning, but after 15 hours of struggling, I finally finished it at 3 in the morning.
 
 <img src="https://user-images.githubusercontent.com/41639488/117580423-ca925180-b132-11eb-827b-6fc7bf3188ab.png" width="400">
 
-しっぽかわいい。
+Cute tails.
 
 ## Thanks
 
-- blender 紹介してくれた皆。
-- あと下記にしるした神の講座たち。
+- Everyone who introduced me to blender.
+- Courses listed below.
   - [【blender2.9】草の作り方｜ 3 分でカンタンモデリング](https://www.youtube.com/watch?v=6Po8GDRVb-Q)
   - [【Blender2.8】ゆるきゃら CG の作り方 #1/モデリング編【クー助と始める 3DCG】](https://www.youtube.com/watch?v=xJJ3qDWMRe0)
   - [blender で猫耳作ってみた。①【モデリング】](https://www.youtube.com/watch?v=xHQyUMLy1dE)
@@ -36,17 +36,17 @@ pubdate: 2021-05-10
 
 ## memo
 
-- オブジェクトは shift a で追加
-- オブジェクトの設定とか、移動とかは「オブジェクトメニュー」押してからショートカットおさないときかない
-- オブジェクトの中のパーツとか、辺とか頂点とか面の操作は「編集メニュー」押してからショートカットおさないときかない
-- 左上メニューから頂点・辺・面の選択モードを切り分ける
-- r ループカット
-  - 多分取り消しできないんだけど、切り取り線を alt で全選択して融解したらなんと治るという自己流の技を見つけた
-- k 任意切込み
-- s いい感じに伸ばしたり押し込む
-  - このときプロポーショナルをオンにする。で、サイズでかすぎると壊れるので微調整する。
-  - x で縦軸、y で横軸、z で上軸だけ並行にできる
-  - これを a で全選択してやると、立方体を縦に均等に短くするとかできる。4 辺選択して頑張るより１００倍楽
-- e そこだけ突き出させる（耳とかしっぽとか）
-- shift s で詳細メニュー
-- 色々作り終わったら、メニューのスムーズよりも、`サブディビジョンサーフェス`
+- shift a : Add objects
+- If you want to set up an object or move it, you have to press "object menu" and then press shortcut.
+- To operate parts, edges, vertices, and faces in an object, press the "Edit menu" and then press the shortcut.
+- Select vertex, edge, or face from the upper left menu.
+- r : Loop cut
+  - I'm not sure if I can undo this, but I've found a self-explanatory trick to fix it by selecting all the cut lines with alt and then melting them.
+- k : Arbitrary cut
+- s : Stretch or push in a good amount
+  - Turn proportional on at this point. If the size is too big, it will break, so you need to fine-tune it.
+  - You can make the vertical axis parallel with x, the horizontal axis with y, and only the upper axis with z.
+  - This is 100 times easier than trying to select all 4 sides of the cube.
+- e : Stick out the block
+- shift s : Detail menu
+- When you are done, you can use the `subdivision surfaces` menu rather than the smooth menu.
