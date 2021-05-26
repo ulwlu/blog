@@ -11,7 +11,7 @@ Memories in 2019.
 
 https://twitter.com/yushakobo/status/1175335738637815808?s=20
 
-Interesting, beautiful, fun.
+Beautiful, fun.
 
 ![2](https://user-images.githubusercontent.com/41639488/118402831-9ecd1980-b6a6-11eb-9ec9-9e96c8b77579.jpg)
 
@@ -19,7 +19,7 @@ It just takes time and money a lil bit.
 
 ![3](https://user-images.githubusercontent.com/41639488/118402833-9ecd1980-b6a6-11eb-9b56-b7dd700cd3ff.jpg)
 
-Yusha-Kobo is a god. They teaches very gently. No wonder they get customers from overseas.
+Yusha-Kobo is a great. They teaches very gently.
 
 ![4](https://user-images.githubusercontent.com/41639488/118402835-9ffe4680-b6a6-11eb-9723-8604902302b1.jpg)
 

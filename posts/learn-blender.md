@@ -1,5 +1,5 @@
 ---
-title: Made Qiitan by blender with my first experience
+title: Made Qiitan by blender
 pubdate: 2021-05-10
 ---
 
@@ -7,15 +7,17 @@ pubdate: 2021-05-10
 
 <img src="https://user-images.githubusercontent.com/41639488/117580420-c9f9bb00-b132-11eb-938c-fa6676d88e72.png" width="400">
 
-I was invited by someone to start.
+I was invited by someone to start blender.
 
-First of all, I'm an engineer, so I let the grass grow.
+First of all I'm an engineer, so I make the grass grow.
 
 <img src="https://user-images.githubusercontent.com/41639488/117580492-1b09af00-b133-11eb-9ff9-5032df4367d2.png" width="400">
 
-And for some reason, Qiitan.
+Then, Qiitan.
 
 ![6dbb5295cf712977](https://user-images.githubusercontent.com/41639488/117728476-7cf61180-b224-11eb-88c1-c2dd5ddf856f.png)
+
+![nya](https://user-images.githubusercontent.com/41639488/119603310-e3d01900-be27-11eb-8c9d-b3658239a897.png)
 
 I think I started at about 12 in the morning, but after 15 hours of struggling, I finally finished it at 3 in the morning.
 
